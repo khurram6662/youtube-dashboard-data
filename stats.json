@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T22:48:05+05:00",
+  "generated_at": "2026-11-22T00:47:59+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1040,
-      "total_views": 1377550,
+      "total_views": 1377766,
       "latest_video": {
         "title": "Der 10-Minuten-Handwerker 😱 480 Euro für EINE Drehung?!",
-        "views": 2,
+        "views": 4,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=uNmZZpOGLPo"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 2 views — far below the top-5 average (55.4K)"
+        "Latest video only 4 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 339,
-      "total_views": 1193586,
+      "total_views": 1194864,
       "latest_video": {
         "title": "She WORE 20 Snacks… Then ATE Them All?! 😱 | ASMR",
         "views": 2,
@@ -80,7 +80,7 @@
         },
         {
           "title": "I Froze CHEETOS in ICE ❄️ Then Poured BAJA BLAST on It! | Snack Drinks Ep.4",
-          "views": 12000,
+          "views": 13000,
           "url": "https://www.youtube.com/shorts/Cr1CH4lAhJQ"
         },
         {
@@ -92,7 +92,7 @@
       "strengths": [
         "Over 1M total views (1.19M)",
         "Breakout video — 903K views",
-        "Active — new video uploaded today"
+        "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
         "339 subs — 661 short of the 1,000 YPP target",
@@ -140,7 +140,7 @@
         }
       ],
       "strengths": [
-        "Active — new video uploaded yesterday"
+        "Active — new video 2 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 12 subscribers",
@@ -188,7 +188,7 @@
         }
       ],
       "strengths": [
-        "Active — new video uploaded yesterday"
+        "Active — new video 2 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
