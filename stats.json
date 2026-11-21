@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-21T04:48:07+05:00",
+  "generated_at": "2026-11-21T06:48:06+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
       "name": "Ein Leben, Ein Moment",
       "handle": "@EinLebenEinMoment",
       "status": "ok",
-      "subscribers": 1030,
-      "total_views": 1372849,
+      "subscribers": 1040,
+      "total_views": 1373148,
       "latest_video": {
         "title": "Er fragt nur EINE Sache… 🤣",
-        "views": 966,
+        "views": 1032,
         "upload_date": "2026-11-20",
         "url": "https://www.youtube.com/watch?v=Ze7Alv6k3dY"
       },
@@ -46,8 +46,8 @@
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 336,
-      "total_views": 1182003,
+      "subscribers": 337,
+      "total_views": 1182513,
       "latest_video": {
         "title": "20 Snacks, 1 Runway! 😱 FULL SHOW SATURDAY 7 PM!",
         "views": 13,
@@ -87,10 +87,10 @@
       "handle": "@MysteryUnsolvedUSA",
       "status": "ok",
       "subscribers": 12,
-      "total_views": 20,
+      "total_views": 21,
       "latest_video": {
         "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-        "views": 1,
+        "views": 2,
         "upload_date": "2026-11-20",
         "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
       },
@@ -112,7 +112,7 @@
         },
         {
           "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-          "views": 1,
+          "views": 2,
           "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
         },
         {
