@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-21T12:48:02+05:00",
+  "generated_at": "2026-11-21T14:48:00+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
       "name": "Ein Leben, Ein Moment",
       "handle": "@EinLebenEinMoment",
       "status": "ok",
-      "subscribers": 1030,
-      "total_views": 1373315,
+      "subscribers": 1040,
+      "total_views": 1373534,
       "latest_video": {
-        "title": "Er fragt nur EINE Sache… 🤣",
-        "views": 1079,
-        "upload_date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=Ze7Alv6k3dY"
+        "title": "Wie lange dauert bei EUCH die Romantik? 😂",
+        "views": 220,
+        "upload_date": "2026-11-21",
+        "url": "https://www.youtube.com/watch?v=RGf4r0CdfpE"
       },
       "top_videos": [
         {
@@ -42,23 +42,23 @@
         }
       ],
       "strengths": [
-        "YPP subscriber target met — 1,030 subs",
+        "YPP subscriber target met — 1,040 subs",
         "Over 1M total views (1.37M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1.1K views — far below the top-5 average (55.4K)"
+        "Latest video only 220 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 337,
-      "total_views": 1188475,
+      "subscribers": 338,
+      "total_views": 1189310,
       "latest_video": {
         "title": "20 Snacks, 1 Runway! 😱 FULL SHOW SATURDAY 7 PM!",
-        "views": 13,
+        "views": 14,
         "upload_date": "2026-11-20",
         "url": "https://www.youtube.com/watch?v=kLLFppTmS0g"
       },
@@ -80,7 +80,7 @@
         },
         {
           "title": "I Froze CHEETOS in ICE ❄️ Then Poured BAJA BLAST on It! | Snack Drinks Ep.4",
-          "views": 7900,
+          "views": 8700,
           "url": "https://www.youtube.com/shorts/Cr1CH4lAhJQ"
         },
         {
@@ -95,8 +95,8 @@
         "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
-        "337 subs — 663 short of the 1,000 YPP target",
-        "Latest video only 13 views — far below the top-5 average (192K)",
+        "338 subs — 662 short of the 1,000 YPP target",
+        "Latest video only 14 views — far below the top-5 average (192K)",
         "Views depend on one video — 76% of all views"
       ]
     },
