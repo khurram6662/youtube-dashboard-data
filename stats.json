@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:47:59+05:00",
+  "generated_at": "2026-11-22T02:48:29+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,11 +7,11 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1040,
-      "total_views": 1377766,
+      "total_views": 1377988,
       "latest_video": {
         "title": "Der 10-Minuten-Handwerker 😱 480 Euro für EINE Drehung?!",
-        "views": 4,
-        "upload_date": "2026-11-21",
+        "views": 5,
+        "upload_date": null,
         "url": "https://www.youtube.com/watch?v=uNmZZpOGLPo"
       },
       "top_videos": [
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 4 views — far below the top-5 average (55.4K)"
+        "Latest video only 5 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 339,
-      "total_views": 1194864,
+      "total_views": 1195136,
       "latest_video": {
         "title": "She WORE 20 Snacks… Then ATE Them All?! 😱 | ASMR",
-        "views": 2,
+        "views": 3,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=y6PIGhbgeUY"
       },
@@ -90,13 +90,13 @@
         }
       ],
       "strengths": [
-        "Over 1M total views (1.19M)",
+        "Over 1M total views (1.2M)",
         "Breakout video — 903K views",
         "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
         "339 subs — 661 short of the 1,000 YPP target",
-        "Latest video only 2 views — far below the top-5 average (193K)",
+        "Latest video only 3 views — far below the top-5 average (193K)",
         "Views depend on one video — 76% of all views"
       ]
     },
@@ -107,10 +107,10 @@
       "subscribers": 12,
       "total_views": 21,
       "latest_video": {
-        "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-        "views": 2,
-        "upload_date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
+        "title": "Większa katastrofa niż Titanic — dlaczego świat o niej milczał?",
+        "views": 5,
+        "upload_date": "2026-11-08",
+        "url": "https://www.youtube.com/watch?v=Wylyqyf5g8w"
       },
       "top_videos": [
         {
@@ -140,7 +140,7 @@
         }
       ],
       "strengths": [
-        "Active — new video 2 days ago"
+        "Latest video above the top-5 average (5 views)"
       ],
       "weaknesses": [
         "Tiny audience — only 12 subscribers",
@@ -153,7 +153,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3007,
+      "total_views": 3072,
       "latest_video": {
         "title": "Your Crosswalk Button Does NOTHING?! 😱 | Fact Blast #32",
         "views": 0,
@@ -168,7 +168,7 @@
         },
         {
           "title": "Why Is the McFlurry Spoon So WEIRD?! 🍦 | Fact Blast #31",
-          "views": 657,
+          "views": 722,
           "url": "https://www.youtube.com/shorts/yGSTPJFrMZA"
         },
         {
@@ -192,8 +192,8 @@
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
-        "Only 3K total views so far",
-        "Latest video only 0 views — far below the top-5 average (514)"
+        "Only 3.1K total views so far",
+        "Latest video only 0 views — far below the top-5 average (527)"
       ]
     },
     {
