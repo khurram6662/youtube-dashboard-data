@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:48:06+05:00",
+  "generated_at": "2026-11-21T06:55:57+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,7 +7,7 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1040,
-      "total_views": 1373148,
+      "total_views": 1373164,
       "latest_video": {
         "title": "Er fragt nur EINE Sache… 🤣",
         "views": 1032,
@@ -40,6 +40,14 @@
           "views": 39000,
           "url": "https://www.youtube.com/shorts/lMB1faWV-dk"
         }
+      ],
+      "strengths": [
+        "YPP subscriber target met — 1,040 subs",
+        "Over 1M total views (1.37M)",
+        "Breakout video — 108K views"
+      ],
+      "weaknesses": [
+        "Latest video only 1K views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -47,7 +55,7 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 337,
-      "total_views": 1182513,
+      "total_views": 1182518,
       "latest_video": {
         "title": "20 Snacks, 1 Runway! 😱 FULL SHOW SATURDAY 7 PM!",
         "views": 13,
@@ -80,6 +88,16 @@
           "views": 5400,
           "url": "https://www.youtube.com/shorts/saC4YF6IBuA"
         }
+      ],
+      "strengths": [
+        "Over 1M total views (1.18M)",
+        "Breakout video — 903K views",
+        "Active — new video uploaded yesterday"
+      ],
+      "weaknesses": [
+        "337 subs — 663 short of the 1,000 YPP target",
+        "Latest video only 13 views — far below the top-5 average (192K)",
+        "Views depend on one video — 76% of all views"
       ]
     },
     {
@@ -90,7 +108,7 @@
       "total_views": 21,
       "latest_video": {
         "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-        "views": 2,
+        "views": 1,
         "upload_date": "2026-11-20",
         "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
       },
@@ -120,6 +138,14 @@
           "views": 0,
           "url": "https://www.youtube.com/watch?v=R85RoS5-Hpk"
         }
+      ],
+      "strengths": [
+        "Active — new video uploaded yesterday"
+      ],
+      "weaknesses": [
+        "Tiny audience — only 12 subscribers",
+        "Only 21 total views so far",
+        "Best video only 7 views"
       ]
     },
     {
@@ -127,7 +153,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 78,
-      "total_views": 2577,
+      "total_views": 2581,
       "latest_video": {
         "title": "Your Crosswalk Button Does NOTHING?! 😱 | Fact Blast #32",
         "views": 1,
@@ -157,9 +183,17 @@
         },
         {
           "title": "Why Is the McFlurry Spoon So WEIRD?! 🍦 | Fact Blast #31",
-          "views": 227,
+          "views": 231,
           "url": "https://www.youtube.com/shorts/yGSTPJFrMZA"
         }
+      ],
+      "strengths": [
+        "Active — new video uploaded yesterday"
+      ],
+      "weaknesses": [
+        "Tiny audience — only 78 subscribers",
+        "Only 2.6K total views so far",
+        "Latest video only 1 view — far below the top-5 average (429)"
       ]
     },
     {
