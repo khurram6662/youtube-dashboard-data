@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T00:48:16+05:00",
+  "generated_at": "2026-11-23T02:48:22+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1050,
-      "total_views": 1383418,
+      "total_views": 1389436,
       "latest_video": {
         "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
-        "views": 3,
+        "views": 4,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
       },
@@ -43,22 +43,22 @@
       ],
       "strengths": [
         "YPP subscriber target met — 1,050 subs",
-        "Over 1M total views (1.38M)",
+        "Over 1M total views (1.39M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 3 views — far below the top-5 average (55.4K)"
+        "Latest video only 4 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 352,
-      "total_views": 1204379,
+      "subscribers": 353,
+      "total_views": 1206114,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 1204,
+        "views": 1608,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -90,13 +90,13 @@
         }
       ],
       "strengths": [
-        "Over 1M total views (1.2M)",
+        "Over 1M total views (1.21M)",
         "Breakout video — 903K views",
         "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
-        "352 subs — 648 short of the 1,000 YPP target",
-        "Latest video only 1.2K views — far below the top-5 average (194K)",
+        "353 subs — 647 short of the 1,000 YPP target",
+        "Latest video only 1.6K views — far below the top-5 average (194K)",
         "Views depend on one video — 75% of all views"
       ]
     },
