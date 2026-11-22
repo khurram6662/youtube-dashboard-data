@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-23T02:48:22+05:00",
+  "generated_at": "2026-11-23T04:48:33+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
       "name": "Ein Leben, Ein Moment",
       "handle": "@EinLebenEinMoment",
       "status": "ok",
-      "subscribers": 1050,
-      "total_views": 1389436,
+      "subscribers": 1060,
+      "total_views": 1394349,
       "latest_video": {
         "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
         "views": 4,
@@ -42,7 +42,7 @@
         }
       ],
       "strengths": [
-        "YPP subscriber target met — 1,050 subs",
+        "YPP subscriber target met — 1,060 subs",
         "Over 1M total views (1.39M)",
         "Breakout video — 108K views"
       ],
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 353,
-      "total_views": 1206114,
+      "total_views": 1209026,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 1608,
+        "views": 1778,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -75,7 +75,7 @@
         },
         {
           "title": "I Froze CHEETOS in ICE ❄️ Then Poured BAJA BLAST on It! | Snack Drinks Ep.4",
-          "views": 16000,
+          "views": 17000,
           "url": "https://www.youtube.com/shorts/Cr1CH4lAhJQ"
         },
         {
@@ -84,9 +84,9 @@
           "url": "https://www.youtube.com/shorts/qi3mlBgYKaQ"
         },
         {
-          "title": "The secret to the perfect potato stuffed flatbread 🤫🥔 #shorts #cooking",
-          "views": 6300,
-          "url": "https://www.youtube.com/shorts/og-8HWRf_s4"
+          "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
+          "views": 6900,
+          "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         }
       ],
       "strengths": [
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "353 subs — 647 short of the 1,000 YPP target",
-        "Latest video only 1.6K views — far below the top-5 average (194K)",
+        "Latest video only 1.8K views — far below the top-5 average (194K)",
         "Views depend on one video — 75% of all views"
       ]
     },
