@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T18:48:16+05:00",
+  "generated_at": "2026-11-22T20:48:15+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1040,
-      "total_views": 1379887,
+      "total_views": 1380397,
       "latest_video": {
-        "title": "Das Essen war VERGIFTET?! 😂 #shorts",
-        "views": 1292,
+        "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
+        "views": 1,
         "upload_date": "2026-11-22",
-        "url": "https://www.youtube.com/watch?v=EhEruRhTnvA"
+        "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
       },
       "top_videos": [
         {
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1.3K views — far below the top-5 average (55.4K)"
+        "Latest video only 1 view — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 340,
-      "total_views": 1199018,
+      "subscribers": 347,
+      "total_views": 1200838,
       "latest_video": {
-        "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-        "views": 152,
+        "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
+        "views": 160,
         "upload_date": "2026-11-22",
-        "url": "https://www.youtube.com/watch?v=Ae4KAurWnGY"
+        "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
       "top_videos": [
         {
@@ -95,8 +95,8 @@
         "Active — new video uploaded today"
       ],
       "weaknesses": [
-        "340 subs — 660 short of the 1,000 YPP target",
-        "Latest video only 152 views — far below the top-5 average (194K)",
+        "347 subs — 653 short of the 1,000 YPP target",
+        "Latest video only 160 views — far below the top-5 average (194K)",
         "Views depend on one video — 75% of all views"
       ]
     },
