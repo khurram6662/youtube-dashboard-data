@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:48:02+05:00",
+  "generated_at": "2026-11-22T14:48:13+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1040,
-      "total_views": 1378362,
+      "total_views": 1378944,
       "latest_video": {
-        "title": "Der 10-Minuten-Handwerker 😱 480 Euro für EINE Drehung?!",
-        "views": 8,
-        "upload_date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=uNmZZpOGLPo"
+        "title": "Das Essen war VERGIFTET?! 😂 #shorts",
+        "views": 580,
+        "upload_date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=EhEruRhTnvA"
       },
       "top_videos": [
         {
@@ -47,15 +47,15 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 8 views — far below the top-5 average (55.4K)"
+        "Latest video only 580 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 341,
-      "total_views": 1198731,
+      "subscribers": 340,
+      "total_views": 1198750,
       "latest_video": {
         "title": "She WORE 20 Snacks… Then ATE Them All?! 😱 | ASMR",
         "views": 6,
@@ -95,7 +95,7 @@
         "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
-        "341 subs — 659 short of the 1,000 YPP target",
+        "340 subs — 660 short of the 1,000 YPP target",
         "Latest video only 6 views — far below the top-5 average (194K)",
         "Views depend on one video — 75% of all views"
       ]
@@ -103,50 +103,8 @@
     {
       "name": "Mystery Unsolved",
       "handle": "@MysteryUnsolvedUSA",
-      "status": "ok",
-      "subscribers": 12,
-      "total_views": 23,
-      "latest_video": {
-        "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-        "views": 4,
-        "upload_date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
-      },
-      "top_videos": [
-        {
-          "title": "Gorsza niż Titanic — a prawie nikt o niej nie słyszał | Wilhelm Gustloff",
-          "views": 7,
-          "url": "https://www.youtube.com/shorts/EhVsxiGRnos"
-        },
-        {
-          "title": "9 000 ludzi. Jedna noc. Bałtyk milczał 80 lat… | Wilhelm Gustloff",
-          "views": 7,
-          "url": "https://www.youtube.com/shorts/_Sjal5Ne0sM"
-        },
-        {
-          "title": "Większa katastrofa niż Titanic — dlaczego świat o niej milczał?",
-          "views": 5,
-          "url": "https://www.youtube.com/watch?v=Wylyqyf5g8w"
-        },
-        {
-          "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-          "views": 4,
-          "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
-        },
-        {
-          "title": "The Unsinkable Ship Was Found Empty — 25 People Simply Gone | MV Joyita, 1955",
-          "views": 0,
-          "url": "https://www.youtube.com/watch?v=R85RoS5-Hpk"
-        }
-      ],
-      "strengths": [
-        "Active — new video 2 days ago"
-      ],
-      "weaknesses": [
-        "Tiny audience — only 12 subscribers",
-        "Only 23 total views so far",
-        "Best video only 7 views"
-      ]
+      "status": "error",
+      "note": "Could not fetch channel data from YouTube."
     },
     {
       "name": "FactBlast",
@@ -156,7 +114,7 @@
       "total_views": 3531,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 355,
+        "views": 353,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
       },
@@ -168,7 +126,7 @@
         },
         {
           "title": "Why Is the McFlurry Spoon So WEIRD?! 🍦 | Fact Blast #31",
-          "views": 825,
+          "views": 826,
           "url": "https://www.youtube.com/shorts/yGSTPJFrMZA"
         },
         {
