@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T04:48:03+05:00",
+  "generated_at": "2026-11-22T06:47:59+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1040,
-      "total_views": 1378203,
+      "total_views": 1378314,
       "latest_video": {
         "title": "Der 10-Minuten-Handwerker 😱 480 Euro für EINE Drehung?!",
-        "views": 5,
+        "views": 6,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=uNmZZpOGLPo"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 5 views — far below the top-5 average (55.4K)"
+        "Latest video only 6 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 340,
-      "total_views": 1196331,
+      "subscribers": 341,
+      "total_views": 1197358,
       "latest_video": {
         "title": "She WORE 20 Snacks… Then ATE Them All?! 😱 | ASMR",
-        "views": 3,
+        "views": 5,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=y6PIGhbgeUY"
       },
@@ -75,7 +75,7 @@
         },
         {
           "title": "I Froze CHEETOS in ICE ❄️ Then Poured BAJA BLAST on It! | Snack Drinks Ep.4",
-          "views": 14000,
+          "views": 15000,
           "url": "https://www.youtube.com/shorts/Cr1CH4lAhJQ"
         },
         {
@@ -95,8 +95,8 @@
         "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
-        "340 subs — 660 short of the 1,000 YPP target",
-        "Latest video only 3 views — far below the top-5 average (193K)",
+        "341 subs — 659 short of the 1,000 YPP target",
+        "Latest video only 5 views — far below the top-5 average (194K)",
         "Views depend on one video — 75% of all views"
       ]
     },
@@ -105,7 +105,7 @@
       "handle": "@MysteryUnsolvedUSA",
       "status": "ok",
       "subscribers": 12,
-      "total_views": 21,
+      "total_views": 23,
       "latest_video": {
         "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
         "views": 4,
@@ -130,7 +130,7 @@
         },
         {
           "title": "Heweliusz, cz. 1: 55 ofiar w Bałtyku — kto naprawdę zawinił?",
-          "views": 2,
+          "views": 4,
           "url": "https://www.youtube.com/watch?v=Tkf5HncYjJg"
         },
         {
@@ -144,7 +144,7 @@
       ],
       "weaknesses": [
         "Tiny audience — only 12 subscribers",
-        "Only 21 total views so far",
+        "Only 23 total views so far",
         "Best video only 7 views"
       ]
     },
@@ -153,10 +153,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3297,
+      "total_views": 3503,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 164,
+        "views": 329,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
       },
@@ -168,7 +168,7 @@
         },
         {
           "title": "Why Is the McFlurry Spoon So WEIRD?! 🍦 | Fact Blast #31",
-          "views": 783,
+          "views": 824,
           "url": "https://www.youtube.com/shorts/yGSTPJFrMZA"
         },
         {
@@ -177,14 +177,14 @@
           "url": "https://www.youtube.com/shorts/KOVcNXj0siM"
         },
         {
+          "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
+          "views": 329,
+          "url": "https://www.youtube.com/shorts/EkmJkx-ljQE"
+        },
+        {
           "title": "The Hole in Your Pen Cap Can SAVE Your Life?! 🖊️ | Fact Blast #28",
           "views": 326,
           "url": "https://www.youtube.com/shorts/nz80J1riels"
-        },
-        {
-          "title": "The Loneliest Place on Earth Is Closer to SPACE Than to People 🤯 | Fact Blast #9",
-          "views": 295,
-          "url": "https://www.youtube.com/shorts/rXtfPFYknpE"
         }
       ],
       "strengths": [
@@ -192,7 +192,7 @@
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
-        "Only 3.3K total views so far"
+        "Only 3.5K total views so far"
       ]
     },
     {
