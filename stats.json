@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T22:48:22+05:00",
+  "generated_at": "2026-11-23T00:48:16+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1050,
-      "total_views": 1381204,
+      "total_views": 1383418,
       "latest_video": {
         "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
-        "views": 1,
+        "views": 3,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1 view — far below the top-5 average (55.4K)"
+        "Latest video only 3 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 348,
-      "total_views": 1202549,
+      "subscribers": 352,
+      "total_views": 1204379,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 817,
+        "views": 1204,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -92,11 +92,11 @@
       "strengths": [
         "Over 1M total views (1.2M)",
         "Breakout video — 903K views",
-        "Active — new video uploaded today"
+        "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
-        "348 subs — 652 short of the 1,000 YPP target",
-        "Latest video only 817 views — far below the top-5 average (194K)",
+        "352 subs — 648 short of the 1,000 YPP target",
+        "Latest video only 1.2K views — far below the top-5 average (194K)",
         "Views depend on one video — 75% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3530,
+      "total_views": 3524,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 348,
+        "views": 349,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
       },
@@ -130,14 +130,14 @@
           "url": "https://www.youtube.com/shorts/yGSTPJFrMZA"
         },
         {
-          "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-          "views": 355,
-          "url": "https://www.youtube.com/shorts/EkmJkx-ljQE"
-        },
-        {
           "title": "Your Elevator Button Does NOTHING?! 😱 | Fact Blast #25",
           "views": 352,
           "url": "https://www.youtube.com/shorts/KOVcNXj0siM"
+        },
+        {
+          "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
+          "views": 349,
+          "url": "https://www.youtube.com/shorts/EkmJkx-ljQE"
         },
         {
           "title": "The Hole in Your Pen Cap Can SAVE Your Life?! 🖊️ | Fact Blast #28",
@@ -146,7 +146,7 @@
         }
       ],
       "strengths": [
-        "Active — new video uploaded yesterday"
+        "Active — new video 2 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
