@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:51:37+05:00",
+  "generated_at": "2026-11-24T02:50:49+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1402572,
+      "total_views": 1403045,
       "latest_video": {
-        "title": "Das Radio redet 24 Stunden?! 📻😂",
-        "views": 670,
+        "title": "Wie beruhigt man einen WÜTENDEN Kunden? 😂",
+        "views": 864,
         "upload_date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=5uaIdlYDrTI"
+        "url": "https://www.youtube.com/watch?v=o3m0jKx-9QQ"
       },
       "top_videos": [
         {
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 670 views — far below the top-5 average (55.4K)"
+        "Latest video only 864 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 367,
-      "total_views": 1237401,
+      "subscribers": 369,
+      "total_views": 1237967,
       "latest_video": {
         "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
-        "views": 366,
+        "views": 485,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "367 subs — 633 short of the 1,000 YPP target",
-        "Latest video only 366 views — far below the top-5 average (199K)",
+        "369 subs — 631 short of the 1,000 YPP target",
+        "Latest video only 485 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3511,
+      "total_views": 3513,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 350,
+        "views": 352,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
       },
@@ -130,14 +130,14 @@
           "url": "https://www.youtube.com/shorts/yGSTPJFrMZA"
         },
         {
+          "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
+          "views": 352,
+          "url": "https://www.youtube.com/shorts/EkmJkx-ljQE"
+        },
+        {
           "title": "Your Elevator Button Does NOTHING?! 😱 | Fact Blast #25",
           "views": 352,
           "url": "https://www.youtube.com/shorts/KOVcNXj0siM"
-        },
-        {
-          "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-          "views": 350,
-          "url": "https://www.youtube.com/shorts/EkmJkx-ljQE"
         },
         {
           "title": "The Hole in Your Pen Cap Can SAVE Your Life?! 🖊️ | Fact Blast #28",
