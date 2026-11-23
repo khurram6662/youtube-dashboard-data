@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T14:48:26+05:00",
+  "generated_at": "2026-11-23T16:48:55+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1397789,
+      "total_views": 1398886,
       "latest_video": {
-        "title": "Wie beruhigt man einen WÜTENDEN Kunden? 😂",
-        "views": 100,
-        "upload_date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=o3m0jKx-9QQ"
+        "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
+        "views": 7,
+        "upload_date": "2026-11-22",
+        "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
       },
       "top_videos": [
         {
@@ -47,15 +47,15 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 100 views — far below the top-5 average (55.4K)"
+        "Latest video only 7 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 365,
-      "total_views": 1228769,
+      "subscribers": 366,
+      "total_views": 1231806,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
         "views": 3131,
@@ -75,7 +75,7 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 25000,
+          "views": 28000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         },
         {
@@ -95,7 +95,7 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "365 subs — 635 short of the 1,000 YPP target",
+        "366 subs — 634 short of the 1,000 YPP target",
         "Latest video only 3.1K views — far below the top-5 average (198K)",
         "Views depend on one video — 73% of all views"
       ]
@@ -113,10 +113,10 @@
       "subscribers": 79,
       "total_views": 3510,
       "latest_video": {
-        "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 349,
-        "upload_date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
+        "title": "$2,670 a Month for a Motel Room — More Than Rent?! | Every Level",
+        "views": 1,
+        "upload_date": "2026-11-16",
+        "url": "https://www.youtube.com/watch?v=jKq1l-FSdNs"
       },
       "top_videos": [
         {
@@ -146,11 +146,12 @@
         }
       ],
       "strengths": [
-        "Active — new video 2 days ago"
+        "Active — new video 7 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
-        "Only 3.5K total views so far"
+        "Only 3.5K total views so far",
+        "Latest video only 1 view — far below the top-5 average (556)"
       ]
     },
     {
