@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:48:31+05:00",
+  "generated_at": "2026-11-23T08:48:29+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,7 +7,7 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1396566,
+      "total_views": 1397666,
       "latest_video": {
         "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
         "views": 4,
@@ -54,11 +54,11 @@
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 358,
-      "total_views": 1210641,
+      "subscribers": 359,
+      "total_views": 1212865,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 2110,
+        "views": 2464,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -85,19 +85,19 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 8100,
+          "views": 10000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         }
       ],
       "strengths": [
         "Over 1M total views (1.21M)",
         "Breakout video — 903K views",
-        "Active — new video uploaded yesterday"
+        "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "358 subs — 642 short of the 1,000 YPP target",
-        "Latest video only 2.1K views — far below the top-5 average (194K)",
-        "Views depend on one video — 75% of all views"
+        "359 subs — 641 short of the 1,000 YPP target",
+        "Latest video only 2.5K views — far below the top-5 average (195K)",
+        "Views depend on one video — 74% of all views"
       ]
     },
     {
