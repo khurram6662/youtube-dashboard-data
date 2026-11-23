@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T10:48:36+05:00",
+  "generated_at": "2026-11-23T12:48:41+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1397680,
+      "total_views": 1397688,
       "latest_video": {
         "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
-        "views": 5,
+        "views": 7,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 5 views — far below the top-5 average (55.4K)"
+        "Latest video only 7 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 364,
-      "total_views": 1216290,
+      "subscribers": 365,
+      "total_views": 1222523,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 2742,
+        "views": 2970,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -74,6 +74,11 @@
           "url": "https://www.youtube.com/shorts/CTQjzcy6dvw"
         },
         {
+          "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
+          "views": 19000,
+          "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
+        },
+        {
           "title": "I Froze CHEETOS in ICE ❄️ Then Poured BAJA BLAST on It! | Snack Drinks Ep.4",
           "views": 17000,
           "url": "https://www.youtube.com/shorts/Cr1CH4lAhJQ"
@@ -82,11 +87,6 @@
           "title": "The Most Satisfying M&M Crunch Ever 🍫🤤 #asmr #satisfying #shorts",
           "views": 14000,
           "url": "https://www.youtube.com/shorts/qi3mlBgYKaQ"
-        },
-        {
-          "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 13000,
-          "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         }
       ],
       "strengths": [
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "364 subs — 636 short of the 1,000 YPP target",
-        "Latest video only 2.7K views — far below the top-5 average (195K)",
+        "365 subs — 635 short of the 1,000 YPP target",
+        "Latest video only 3K views — far below the top-5 average (197K)",
         "Views depend on one video — 74% of all views"
       ]
     },
