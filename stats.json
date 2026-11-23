@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T08:48:29+05:00",
+  "generated_at": "2026-11-23T10:48:36+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1397666,
+      "total_views": 1397680,
       "latest_video": {
         "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
-        "views": 4,
+        "views": 5,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 4 views — far below the top-5 average (55.4K)"
+        "Latest video only 5 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 359,
-      "total_views": 1212865,
+      "subscribers": 364,
+      "total_views": 1216290,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 2464,
+        "views": 2742,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -85,18 +85,18 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 10000,
+          "views": 13000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         }
       ],
       "strengths": [
-        "Over 1M total views (1.21M)",
+        "Over 1M total views (1.22M)",
         "Breakout video — 903K views",
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "359 subs — 641 short of the 1,000 YPP target",
-        "Latest video only 2.5K views — far below the top-5 average (195K)",
+        "364 subs — 636 short of the 1,000 YPP target",
+        "Latest video only 2.7K views — far below the top-5 average (195K)",
         "Views depend on one video — 74% of all views"
       ]
     },
