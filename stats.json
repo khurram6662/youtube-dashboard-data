@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:48:31+05:00",
+  "generated_at": "2026-11-24T00:51:37+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1400682,
+      "total_views": 1402572,
       "latest_video": {
         "title": "Das Radio redet 24 Stunden?! 📻😂",
-        "views": 368,
+        "views": 670,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=5uaIdlYDrTI"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 368 views — far below the top-5 average (55.4K)"
+        "Latest video only 670 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 367,
-      "total_views": 1236918,
+      "total_views": 1237401,
       "latest_video": {
         "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
-        "views": 250,
+        "views": 366,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "367 subs — 633 short of the 1,000 YPP target",
-        "Latest video only 250 views — far below the top-5 average (199K)",
+        "Latest video only 366 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3510,
+      "total_views": 3511,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 349,
+        "views": 350,
         "upload_date": "2026-11-21",
         "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
       },
@@ -136,7 +136,7 @@
         },
         {
           "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-          "views": 349,
+          "views": 350,
           "url": "https://www.youtube.com/shorts/EkmJkx-ljQE"
         },
         {
@@ -146,7 +146,7 @@
         }
       ],
       "strengths": [
-        "Active — new video 2 days ago"
+        "Active — new video 3 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
