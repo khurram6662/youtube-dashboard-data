@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:48:35+05:00",
+  "generated_at": "2026-11-23T20:48:35+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1398991,
+      "total_views": 1400402,
       "latest_video": {
-        "title": "Wie beruhigt man einen WÜTENDEN Kunden? 😂",
-        "views": 283,
+        "title": "Das Radio redet 24 Stunden?! 📻😂",
+        "views": 182,
         "upload_date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=o3m0jKx-9QQ"
+        "url": "https://www.youtube.com/watch?v=5uaIdlYDrTI"
       },
       "top_videos": [
         {
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 283 views — far below the top-5 average (55.4K)"
+        "Latest video only 182 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 366,
-      "total_views": 1233898,
+      "subscribers": 367,
+      "total_views": 1235191,
       "latest_video": {
-        "title": "Doritos MILKSHAKE?! 🧡",
-        "views": 4,
+        "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
+        "views": 3,
         "upload_date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=kVLH-lagfck"
+        "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
       },
       "top_videos": [
         {
@@ -70,7 +70,7 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 30000,
+          "views": 31000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         },
         {
@@ -90,13 +90,13 @@
         }
       ],
       "strengths": [
-        "Over 1M total views (1.23M)",
+        "Over 1M total views (1.24M)",
         "Breakout video — 903K views",
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "366 subs — 634 short of the 1,000 YPP target",
-        "Latest video only 4 views — far below the top-5 average (199K)",
+        "367 subs — 633 short of the 1,000 YPP target",
+        "Latest video only 3 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
