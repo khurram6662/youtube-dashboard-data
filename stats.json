@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T12:48:41+05:00",
+  "generated_at": "2026-11-23T14:48:26+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1397688,
+      "total_views": 1397789,
       "latest_video": {
-        "title": "Er braucht ein FORMULAR für KAFFEE?! 😂 Büro-Comedy",
-        "views": 7,
-        "upload_date": "2026-11-22",
-        "url": "https://www.youtube.com/watch?v=_rRNGuXX3fg"
+        "title": "Wie beruhigt man einen WÜTENDEN Kunden? 😂",
+        "views": 100,
+        "upload_date": "2026-11-23",
+        "url": "https://www.youtube.com/watch?v=o3m0jKx-9QQ"
       },
       "top_videos": [
         {
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 7 views — far below the top-5 average (55.4K)"
+        "Latest video only 100 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 365,
-      "total_views": 1222523,
+      "total_views": 1228769,
       "latest_video": {
         "title": "Cheetos + Takis + Doritos SALAD?! 🥗😱 | ASMR",
-        "views": 2970,
+        "views": 3131,
         "upload_date": "2026-11-22",
         "url": "https://www.youtube.com/watch?v=Db6O9vNB_Fo"
       },
@@ -75,7 +75,7 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 19000,
+          "views": 25000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         },
         {
@@ -90,14 +90,14 @@
         }
       ],
       "strengths": [
-        "Over 1M total views (1.22M)",
+        "Over 1M total views (1.23M)",
         "Breakout video — 903K views",
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
         "365 subs — 635 short of the 1,000 YPP target",
-        "Latest video only 3K views — far below the top-5 average (197K)",
-        "Views depend on one video — 74% of all views"
+        "Latest video only 3.1K views — far below the top-5 average (198K)",
+        "Views depend on one video — 73% of all views"
       ]
     },
     {
