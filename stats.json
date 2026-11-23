@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:48:35+05:00",
+  "generated_at": "2026-11-23T22:48:31+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1400402,
+      "total_views": 1400682,
       "latest_video": {
         "title": "Das Radio redet 24 Stunden?! 📻😂",
-        "views": 182,
+        "views": 368,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=5uaIdlYDrTI"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 182 views — far below the top-5 average (55.4K)"
+        "Latest video only 368 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 367,
-      "total_views": 1235191,
+      "total_views": 1236918,
       "latest_video": {
         "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
-        "views": 3,
+        "views": 250,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
       },
@@ -70,7 +70,7 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 31000,
+          "views": 32000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         },
         {
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "367 subs — 633 short of the 1,000 YPP target",
-        "Latest video only 3 views — far below the top-5 average (199K)",
+        "Latest video only 250 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
