@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:50:42+05:00",
+  "generated_at": "2026-11-24T16:48:27+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1404388,
+      "total_views": 1404668,
       "latest_video": {
         "title": "Er bedrohte seine Frau 5 JAHRE?! 😱⚖️",
-        "views": 96,
+        "views": 269,
         "upload_date": "2026-11-24",
         "url": "https://www.youtube.com/watch?v=L4A5AeeSgmg"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 96 views — far below the top-5 average (55.4K)"
+        "Latest video only 269 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 372,
-      "total_views": 1241274,
+      "total_views": 1241467,
       "latest_video": {
         "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
-        "views": 638,
+        "views": 715,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "372 subs — 628 short of the 1,000 YPP target",
-        "Latest video only 638 views — far below the top-5 average (199K)",
+        "Latest video only 715 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3513,
+      "total_views": 3514,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
         "views": 353,
