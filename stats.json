@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:48:38+05:00",
+  "generated_at": "2026-11-25T02:48:40+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1406729,
+      "total_views": 1407203,
       "latest_video": {
         "title": "Das SCHNELLSTE Netzwerk der Welt?! 😂",
-        "views": 755,
+        "views": 935,
         "upload_date": "2026-11-24",
         "url": "https://www.youtube.com/watch?v=5Zunf2uIrdk"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 755 views — far below the top-5 average (55.4K)"
+        "Latest video only 935 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 374,
-      "total_views": 1242965,
+      "total_views": 1243173,
       "latest_video": {
         "title": "I Poured Gatorade on Cheetos Puffs?! 😱💙 | ASMR",
-        "views": 9,
+        "views": 15,
         "upload_date": "2026-11-24",
         "url": "https://www.youtube.com/watch?v=g52NFjNzQSg"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "374 subs — 626 short of the 1,000 YPP target",
-        "Latest video only 9 views — far below the top-5 average (199K)",
+        "Latest video only 15 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3514,
+      "total_views": 3515,
       "latest_video": {
         "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
         "views": 353,
