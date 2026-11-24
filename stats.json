@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T16:48:27+05:00",
+  "generated_at": "2026-11-24T18:48:33+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1404668,
+      "total_views": 1404971,
       "latest_video": {
         "title": "Er bedrohte seine Frau 5 JAHRE?! 😱⚖️",
-        "views": 269,
+        "views": 362,
         "upload_date": "2026-11-24",
         "url": "https://www.youtube.com/watch?v=L4A5AeeSgmg"
       },
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 269 views — far below the top-5 average (55.4K)"
+        "Latest video only 362 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 372,
-      "total_views": 1241467,
+      "subscribers": 373,
+      "total_views": 1242101,
       "latest_video": {
-        "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
-        "views": 715,
-        "upload_date": "2026-11-23",
-        "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
+        "title": "Takis vs Cheetos — WHO WINS?! 😱",
+        "views": 393,
+        "upload_date": "2026-11-24",
+        "url": "https://www.youtube.com/watch?v=qFkkpr0qSlw"
       },
       "top_videos": [
         {
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "372 subs — 628 short of the 1,000 YPP target",
-        "Latest video only 715 views — far below the top-5 average (199K)",
+        "373 subs — 627 short of the 1,000 YPP target",
+        "Latest video only 393 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
