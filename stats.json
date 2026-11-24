@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T04:50:52+05:00",
+  "generated_at": "2026-11-24T06:50:51+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1404166,
+      "total_views": 1404182,
       "latest_video": {
         "title": "Das Radio redet 24 Stunden?! 📻😂",
-        "views": 1054,
+        "views": 1073,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=5uaIdlYDrTI"
       },
@@ -54,11 +54,11 @@
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 369,
-      "total_views": 1239498,
+      "subscribers": 371,
+      "total_views": 1239674,
       "latest_video": {
         "title": "I Put a PAQUI BLACK CHIP on Samyang 3X Noodles?! 🔥",
-        "views": 572,
+        "views": 635,
         "upload_date": "2026-11-23",
         "url": "https://www.youtube.com/watch?v=Z2fwFP87htc"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "369 subs — 631 short of the 1,000 YPP target",
-        "Latest video only 572 views — far below the top-5 average (199K)",
+        "371 subs — 629 short of the 1,000 YPP target",
+        "Latest video only 635 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
