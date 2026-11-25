@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-25T16:48:33+05:00",
+  "generated_at": "2026-11-25T18:48:53+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
       "name": "Ein Leben, Ein Moment",
       "handle": "@EinLebenEinMoment",
       "status": "ok",
-      "subscribers": 1060,
-      "total_views": 1409942,
+      "subscribers": 1070,
+      "total_views": 1411515,
       "latest_video": {
         "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 228,
+        "views": 387,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
       },
@@ -42,12 +42,12 @@
         }
       ],
       "strengths": [
-        "YPP subscriber target met — 1,060 subs",
+        "YPP subscriber target met — 1,070 subs",
         "Over 1M total views (1.41M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 228 views — far below the top-5 average (55.4K)"
+        "Latest video only 387 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,12 +55,12 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 375,
-      "total_views": 1244054,
+      "total_views": 1244113,
       "latest_video": {
-        "title": "I Poured Gatorade on Cheetos Puffs?! 😱💙 | ASMR",
-        "views": 82,
-        "upload_date": "2026-11-24",
-        "url": "https://www.youtube.com/watch?v=g52NFjNzQSg"
+        "title": "Cheetos NOODLES?! 🍜🔥",
+        "views": 3,
+        "upload_date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=13zm-EbJh-M"
       },
       "top_videos": [
         {
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "375 subs — 625 short of the 1,000 YPP target",
-        "Latest video only 82 views — far below the top-5 average (199K)",
+        "Latest video only 3 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
