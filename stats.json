@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T06:48:31+05:00",
+  "generated_at": "2026-11-25T08:48:37+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,7 +7,7 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1060,
-      "total_views": 1408359,
+      "total_views": 1408768,
       "latest_video": {
         "title": "Das SCHNELLSTE Netzwerk der Welt?! 😂",
         "views": 963,
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 375,
-      "total_views": 1243528,
+      "total_views": 1243667,
       "latest_video": {
         "title": "I Poured Gatorade on Cheetos Puffs?! 😱💙 | ASMR",
-        "views": 28,
+        "views": 53,
         "upload_date": "2026-11-24",
         "url": "https://www.youtube.com/watch?v=g52NFjNzQSg"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "375 subs — 625 short of the 1,000 YPP target",
-        "Latest video only 28 views — far below the top-5 average (199K)",
+        "Latest video only 53 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
