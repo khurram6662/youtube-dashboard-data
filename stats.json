@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:48:24+05:00",
+  "generated_at": "2026-11-26T02:48:46+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1413151,
+      "total_views": 1413469,
       "latest_video": {
         "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 1008,
+        "views": 1078,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1K views — far below the top-5 average (55.4K)"
+        "Latest video only 1.1K views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 379,
-      "total_views": 1247980,
+      "total_views": 1248493,
       "latest_video": {
         "title": "What If Everything Was PINK?! 😱",
         "views": 3,
@@ -111,12 +111,12 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3512,
+      "total_views": 3513,
       "latest_video": {
-        "title": "That Tiny Arrow on Your Dashboard SAVES You?! 😱 | Fact Blast #33",
-        "views": 349,
-        "upload_date": "2026-11-21",
-        "url": "https://www.youtube.com/watch?v=EkmJkx-ljQE"
+        "title": "Your Crosswalk Button Does NOTHING?! 😱 | Fact Blast #32",
+        "views": 1,
+        "upload_date": "2026-11-20",
+        "url": "https://www.youtube.com/watch?v=-B0T3UvqOV0"
       },
       "top_videos": [
         {
@@ -131,7 +131,7 @@
         },
         {
           "title": "Your Elevator Button Does NOTHING?! 😱 | Fact Blast #25",
-          "views": 352,
+          "views": 353,
           "url": "https://www.youtube.com/shorts/KOVcNXj0siM"
         },
         {
@@ -146,11 +146,12 @@
         }
       ],
       "strengths": [
-        "Active — new video 5 days ago"
+        "Active — new video 6 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
-        "Only 3.5K total views so far"
+        "Only 3.5K total views so far",
+        "Latest video only 1 view — far below the top-5 average (556)"
       ]
     },
     {
