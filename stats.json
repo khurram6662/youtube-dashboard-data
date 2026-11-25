@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T18:48:53+05:00",
+  "generated_at": "2026-11-25T20:48:45+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1411515,
+      "total_views": 1411967,
       "latest_video": {
         "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 387,
+        "views": 598,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
       },
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 387 views — far below the top-5 average (55.4K)"
+        "Latest video only 598 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 375,
-      "total_views": 1244113,
+      "subscribers": 378,
+      "total_views": 1245012,
       "latest_video": {
-        "title": "Cheetos NOODLES?! 🍜🔥",
-        "views": 3,
+        "title": "What If Everything Was PINK?! 😱",
+        "views": 0,
         "upload_date": "2026-11-25",
-        "url": "https://www.youtube.com/watch?v=13zm-EbJh-M"
+        "url": "https://www.youtube.com/watch?v=QRo4OxwL8TU"
       },
       "top_videos": [
         {
@@ -90,13 +90,13 @@
         }
       ],
       "strengths": [
-        "Over 1M total views (1.24M)",
+        "Over 1M total views (1.25M)",
         "Breakout video — 903K views",
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "375 subs — 625 short of the 1,000 YPP target",
-        "Latest video only 3 views — far below the top-5 average (199K)",
+        "378 subs — 622 short of the 1,000 YPP target",
+        "Latest video only 0 views — far below the top-5 average (199K)",
         "Views depend on one video — 73% of all views"
       ]
     },
