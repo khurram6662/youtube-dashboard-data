@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:48:46+05:00",
+  "generated_at": "2026-11-26T04:48:30+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1413469,
+      "total_views": 1415129,
       "latest_video": {
         "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 1078,
+        "views": 1156,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
       },
@@ -43,11 +43,11 @@
       ],
       "strengths": [
         "YPP subscriber target met — 1,070 subs",
-        "Over 1M total views (1.41M)",
+        "Over 1M total views (1.42M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1.1K views — far below the top-5 average (55.4K)"
+        "Latest video only 1.2K views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 379,
-      "total_views": 1248493,
+      "total_views": 1248730,
       "latest_video": {
         "title": "What If Everything Was PINK?! 😱",
-        "views": 3,
+        "views": 4,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=QRo4OxwL8TU"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "379 subs — 621 short of the 1,000 YPP target",
-        "Latest video only 3 views — far below the top-5 average (200K)",
+        "Latest video only 4 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,12 +111,12 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3513,
+      "total_views": 3519,
       "latest_video": {
-        "title": "Your Crosswalk Button Does NOTHING?! 😱 | Fact Blast #32",
-        "views": 1,
-        "upload_date": "2026-11-20",
-        "url": "https://www.youtube.com/watch?v=-B0T3UvqOV0"
+        "title": "Your Office Thermostat Does NOTHING?! 😱 | Fact Blast #34",
+        "views": 6,
+        "upload_date": "2026-11-25",
+        "url": "https://www.youtube.com/watch?v=lHlovvtt1pQ"
       },
       "top_videos": [
         {
@@ -146,12 +146,12 @@
         }
       ],
       "strengths": [
-        "Active — new video 6 days ago"
+        "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.5K total views so far",
-        "Latest video only 1 view — far below the top-5 average (556)"
+        "Latest video only 6 views — far below the top-5 average (556)"
       ]
     },
     {
