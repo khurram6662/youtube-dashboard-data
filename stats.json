@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T02:48:33+05:00",
+  "generated_at": "2026-11-27T04:48:38+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1421185,
+      "total_views": 1422300,
       "latest_video": {
         "title": "Schau mal, wie mutig ich war! 😂",
-        "views": 3594,
+        "views": 4685,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=RfPPvSPvh8w"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 3.6K views — far below the top-5 average (55.4K)"
+        "Latest video only 4.7K views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 381,
-      "total_views": 1252855,
+      "subscribers": 382,
+      "total_views": 1253050,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1302,
+        "views": 1450,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "381 subs — 619 short of the 1,000 YPP target",
-        "Latest video only 1.3K views — far below the top-5 average (200K)",
+        "382 subs — 618 short of the 1,000 YPP target",
+        "Latest video only 1.4K views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,12 +111,12 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3526,
+      "total_views": 3527,
       "latest_video": {
-        "title": "Your Office Thermostat Does NOTHING?! 😱 | Fact Blast #34",
-        "views": 12,
-        "upload_date": "2026-11-25",
-        "url": "https://www.youtube.com/watch?v=lHlovvtt1pQ"
+        "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
+        "views": 1,
+        "upload_date": "2026-11-26",
+        "url": "https://www.youtube.com/watch?v=KUoXbAjdxFk"
       },
       "top_videos": [
         {
@@ -146,12 +146,12 @@
         }
       ],
       "strengths": [
-        "Active — new video 2 days ago"
+        "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.5K total views so far",
-        "Latest video only 12 views — far below the top-5 average (556)"
+        "Latest video only 1 view — far below the top-5 average (556)"
       ]
     },
     {
