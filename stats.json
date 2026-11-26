@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T00:50:41+05:00",
+  "generated_at": "2026-11-27T02:48:33+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1419710,
+      "total_views": 1421185,
       "latest_video": {
         "title": "Schau mal, wie mutig ich war! 😂",
-        "views": 2511,
+        "views": 3594,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=RfPPvSPvh8w"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 2.5K views — far below the top-5 average (55.4K)"
+        "Latest video only 3.6K views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 382,
-      "total_views": 1252621,
+      "subscribers": 381,
+      "total_views": 1252855,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1198,
+        "views": 1302,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "382 subs — 618 short of the 1,000 YPP target",
-        "Latest video only 1.2K views — far below the top-5 average (200K)",
+        "381 subs — 619 short of the 1,000 YPP target",
+        "Latest video only 1.3K views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
