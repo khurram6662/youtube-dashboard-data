@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T04:48:30+05:00",
+  "generated_at": "2026-11-26T06:48:34+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1415129,
+      "total_views": 1415449,
       "latest_video": {
         "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 1156,
+        "views": 1216,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
       },
@@ -54,11 +54,11 @@
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 379,
-      "total_views": 1248730,
+      "subscribers": 380,
+      "total_views": 1248993,
       "latest_video": {
         "title": "What If Everything Was PINK?! 😱",
-        "views": 4,
+        "views": 24,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=QRo4OxwL8TU"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "379 subs — 621 short of the 1,000 YPP target",
-        "Latest video only 4 views — far below the top-5 average (200K)",
+        "380 subs — 620 short of the 1,000 YPP target",
+        "Latest video only 24 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3519,
+      "total_views": 3523,
       "latest_video": {
         "title": "Your Office Thermostat Does NOTHING?! 😱 | Fact Blast #34",
-        "views": 6,
+        "views": 8,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=lHlovvtt1pQ"
       },
@@ -151,7 +151,7 @@
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.5K total views so far",
-        "Latest video only 6 views — far below the top-5 average (556)"
+        "Latest video only 8 views — far below the top-5 average (556)"
       ]
     },
     {
