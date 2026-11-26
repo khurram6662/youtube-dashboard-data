@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:48:26+05:00",
+  "generated_at": "2026-11-26T14:48:26+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1415699,
+      "total_views": 1415827,
       "latest_video": {
-        "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 1234,
-        "upload_date": "2026-11-25",
-        "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
+        "title": "Alle Hexen leben auf Bäumen?! 😂",
+        "views": 116,
+        "upload_date": "2026-11-26",
+        "url": "https://www.youtube.com/watch?v=rcTC6OOZ4yQ"
       },
       "top_videos": [
         {
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1.2K views — far below the top-5 average (55.4K)"
+        "Latest video only 116 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 380,
-      "total_views": 1249674,
+      "total_views": 1249803,
       "latest_video": {
         "title": "What If Everything Was PINK?! 😱",
-        "views": 162,
+        "views": 178,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=QRo4OxwL8TU"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "380 subs — 620 short of the 1,000 YPP target",
-        "Latest video only 162 views — far below the top-5 average (200K)",
+        "Latest video only 178 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3523,
+      "total_views": 3524,
       "latest_video": {
         "title": "Your Office Thermostat Does NOTHING?! 😱 | Fact Blast #34",
         "views": 11,
