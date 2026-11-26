@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T16:48:26+05:00",
+  "generated_at": "2026-11-26T18:48:30+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1416029,
+      "total_views": 1416430,
       "latest_video": {
         "title": "Alle Hexen leben auf Bäumen?! 😂",
-        "views": 306,
+        "views": 521,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=rcTC6OOZ4yQ"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 306 views — far below the top-5 average (55.4K)"
+        "Latest video only 521 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,12 +55,12 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 381,
-      "total_views": 1249875,
+      "total_views": 1250076,
       "latest_video": {
-        "title": "What If Everything Was PINK?! 😱",
-        "views": 178,
-        "upload_date": "2026-11-25",
-        "url": "https://www.youtube.com/watch?v=QRo4OxwL8TU"
+        "title": "Cheez-It Was Born in 1921 — And Every Cracker Has a HOLE?! 😱",
+        "views": 25,
+        "upload_date": "2026-11-26",
+        "url": "https://www.youtube.com/watch?v=MP-awT1-jQQ"
       },
       "top_videos": [
         {
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "381 subs — 619 short of the 1,000 YPP target",
-        "Latest video only 178 views — far below the top-5 average (200K)",
+        "Latest video only 25 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3524,
+      "total_views": 3526,
       "latest_video": {
         "title": "Your Office Thermostat Does NOTHING?! 😱 | Fact Blast #34",
         "views": 11,
