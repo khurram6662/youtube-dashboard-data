@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T08:48:28+05:00",
+  "generated_at": "2026-11-26T10:48:32+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1070,
-      "total_views": 1415474,
+      "total_views": 1415494,
       "latest_video": {
         "title": "Verheiratet an Weihnachten?! 🎄😂",
-        "views": 1248,
+        "views": 1274,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=J7BHtJlF1hI"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1.2K views — far below the top-5 average (55.4K)"
+        "Latest video only 1.3K views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 380,
-      "total_views": 1249224,
+      "total_views": 1249504,
       "latest_video": {
         "title": "What If Everything Was PINK?! 😱",
-        "views": 106,
+        "views": 135,
         "upload_date": "2026-11-25",
         "url": "https://www.youtube.com/watch?v=QRo4OxwL8TU"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "380 subs — 620 short of the 1,000 YPP target",
-        "Latest video only 106 views — far below the top-5 average (200K)",
+        "Latest video only 135 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
