@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T12:48:36+05:00",
+  "generated_at": "2026-11-27T14:48:30+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1424515,
+      "total_views": 1425279,
       "latest_video": {
-        "title": "Alle Hexen leben auf Bäumen?! 😂",
-        "views": 1441,
-        "upload_date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=rcTC6OOZ4yQ"
+        "title": "Er hat das Trinkwasser vergiftet?! 😱",
+        "views": 63,
+        "upload_date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=CDsEcgONh0w"
       },
       "top_videos": [
         {
@@ -43,11 +43,11 @@
       ],
       "strengths": [
         "YPP subscriber target met — 1,080 subs",
-        "Over 1M total views (1.42M)",
+        "Over 1M total views (1.43M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 1.4K views — far below the top-5 average (55.4K)"
+        "Latest video only 63 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 382,
-      "total_views": 1254946,
+      "total_views": 1255187,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1708,
+        "views": 1705,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
       },
@@ -90,7 +90,7 @@
         }
       ],
       "strengths": [
-        "Over 1M total views (1.25M)",
+        "Over 1M total views (1.26M)",
         "Breakout video — 903K views",
         "Deep catalogue — 5 videos over 10K views"
       ],
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3536,
+      "total_views": 3537,
       "latest_video": {
         "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
         "views": 8,
