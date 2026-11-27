@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T16:48:27+05:00",
+  "generated_at": "2026-11-27T18:48:40+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1426202,
+      "total_views": 1426703,
       "latest_video": {
         "title": "Er hat das Trinkwasser vergiftet?! 😱",
-        "views": 180,
+        "views": 63,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=CDsEcgONh0w"
       },
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 180 views — far below the top-5 average (55.4K)"
+        "Latest video only 63 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 382,
-      "total_views": 1255197,
+      "subscribers": 383,
+      "total_views": 1256092,
       "latest_video": {
-        "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1868,
-        "upload_date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
+        "title": "Takis Zombie + Baja Blast JUICE?! 🧟",
+        "views": 418,
+        "upload_date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=ma7hPBEXh28"
       },
       "top_videos": [
         {
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "382 subs — 618 short of the 1,000 YPP target",
-        "Latest video only 1.9K views — far below the top-5 average (200K)",
+        "383 subs — 617 short of the 1,000 YPP target",
+        "Latest video only 418 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
