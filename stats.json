@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T04:48:38+05:00",
+  "generated_at": "2026-11-27T06:48:40+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1422300,
+      "total_views": 1423412,
       "latest_video": {
         "title": "Schau mal, wie mutig ich war! 😂",
-        "views": 4685,
+        "views": 5574,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=RfPPvSPvh8w"
       },
@@ -46,19 +46,17 @@
         "Over 1M total views (1.42M)",
         "Breakout video — 108K views"
       ],
-      "weaknesses": [
-        "Latest video only 4.7K views — far below the top-5 average (55.4K)"
-      ]
+      "weaknesses": []
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 382,
-      "total_views": 1253050,
+      "total_views": 1254375,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1450,
+        "views": 1476,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
       },
@@ -70,7 +68,7 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 34000,
+          "views": 35000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         },
         {
@@ -96,7 +94,7 @@
       ],
       "weaknesses": [
         "382 subs — 618 short of the 1,000 YPP target",
-        "Latest video only 1.4K views — far below the top-5 average (200K)",
+        "Latest video only 1.5K views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
