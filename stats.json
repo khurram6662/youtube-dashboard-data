@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:48:40+05:00",
+  "generated_at": "2026-11-27T08:48:41+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1423412,
+      "total_views": 1423814,
       "latest_video": {
-        "title": "Schau mal, wie mutig ich war! 😂",
-        "views": 5574,
+        "title": "Alle Hexen leben auf Bäumen?! 😂",
+        "views": 1367,
         "upload_date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=RfPPvSPvh8w"
+        "url": "https://www.youtube.com/watch?v=rcTC6OOZ4yQ"
       },
       "top_videos": [
         {
@@ -46,17 +46,19 @@
         "Over 1M total views (1.42M)",
         "Breakout video — 108K views"
       ],
-      "weaknesses": []
+      "weaknesses": [
+        "Latest video only 1.4K views — far below the top-5 average (55.4K)"
+      ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 382,
-      "total_views": 1254375,
+      "total_views": 1254705,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1476,
+        "views": 1604,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
       },
@@ -94,7 +96,7 @@
       ],
       "weaknesses": [
         "382 subs — 618 short of the 1,000 YPP target",
-        "Latest video only 1.5K views — far below the top-5 average (200K)",
+        "Latest video only 1.6K views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -112,7 +114,7 @@
       "total_views": 3527,
       "latest_video": {
         "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
-        "views": 1,
+        "views": 5,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=KUoXbAjdxFk"
       },
@@ -149,7 +151,7 @@
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.5K total views so far",
-        "Latest video only 1 view — far below the top-5 average (556)"
+        "Latest video only 5 views — far below the top-5 average (556)"
       ]
     },
     {
