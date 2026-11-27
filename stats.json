@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T18:48:40+05:00",
+  "generated_at": "2026-11-27T20:48:45+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1426703,
+      "total_views": 1427904,
       "latest_video": {
-        "title": "Er hat das Trinkwasser vergiftet?! 😱",
-        "views": 63,
+        "title": "Er ist 40, sie ist 30 – und er hat sich VERLIEBT?! 😂 | Büro-Romance",
+        "views": 0,
         "upload_date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=CDsEcgONh0w"
+        "url": "https://www.youtube.com/watch?v=GGPvjouPiEE"
       },
       "top_videos": [
         {
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 63 views — far below the top-5 average (55.4K)"
+        "Latest video only 0 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 383,
-      "total_views": 1256092,
+      "subscribers": 387,
+      "total_views": 1256727,
       "latest_video": {
-        "title": "Takis Zombie + Baja Blast JUICE?! 🧟",
-        "views": 418,
+        "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
+        "views": 2,
         "upload_date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=ma7hPBEXh28"
+        "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
       },
       "top_videos": [
         {
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "383 subs — 617 short of the 1,000 YPP target",
-        "Latest video only 418 views — far below the top-5 average (200K)",
+        "387 subs — 613 short of the 1,000 YPP target",
+        "Latest video only 2 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
