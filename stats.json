@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-28T00:48:33+05:00",
+  "generated_at": "2026-11-28T02:48:35+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
       "name": "Ein Leben, Ein Moment",
       "handle": "@EinLebenEinMoment",
       "status": "ok",
-      "subscribers": 1080,
-      "total_views": 1430110,
+      "subscribers": 1090,
+      "total_views": 1431042,
       "latest_video": {
         "title": "Er ist 40, sie ist 30 – und er hat sich VERLIEBT?! 😂 | Büro-Romance",
-        "views": 4,
+        "views": 6,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GGPvjouPiEE"
       },
@@ -42,23 +42,23 @@
         }
       ],
       "strengths": [
-        "YPP subscriber target met — 1,080 subs",
+        "YPP subscriber target met — 1,090 subs",
         "Over 1M total views (1.43M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 4 views — far below the top-5 average (55.4K)"
+        "Latest video only 6 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 390,
-      "total_views": 1258732,
+      "subscribers": 389,
+      "total_views": 1260547,
       "latest_video": {
         "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
-        "views": 486,
+        "views": 666,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "390 subs — 610 short of the 1,000 YPP target",
-        "Latest video only 486 views — far below the top-5 average (200K)",
+        "389 subs — 611 short of the 1,000 YPP target",
+        "Latest video only 666 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3537,
+      "total_views": 3579,
       "latest_video": {
         "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
-        "views": 12,
+        "views": 60,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=KUoXbAjdxFk"
       },
@@ -150,8 +150,7 @@
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
-        "Only 3.5K total views so far",
-        "Latest video only 12 views — far below the top-5 average (556)"
+        "Only 3.6K total views so far"
       ]
     },
     {
