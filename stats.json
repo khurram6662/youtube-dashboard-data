@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T14:48:30+05:00",
+  "generated_at": "2026-11-27T16:48:27+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1425279,
+      "total_views": 1426202,
       "latest_video": {
         "title": "Er hat das Trinkwasser vergiftet?! 😱",
-        "views": 63,
+        "views": 180,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=CDsEcgONh0w"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 63 views — far below the top-5 average (55.4K)"
+        "Latest video only 180 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 382,
-      "total_views": 1255187,
+      "total_views": 1255197,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
-        "views": 1705,
+        "views": 1868,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=5SWkGfH9DVs"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "382 subs — 618 short of the 1,000 YPP target",
-        "Latest video only 1.7K views — far below the top-5 average (200K)",
+        "Latest video only 1.9K views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3537,
+      "total_views": 3538,
       "latest_video": {
         "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
         "views": 8,
