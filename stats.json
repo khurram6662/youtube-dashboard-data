@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T20:48:45+05:00",
+  "generated_at": "2026-11-27T22:48:35+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1427904,
+      "total_views": 1429137,
       "latest_video": {
         "title": "Er ist 40, sie ist 30 – und er hat sich VERLIEBT?! 😂 | Büro-Romance",
-        "views": 0,
+        "views": 4,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GGPvjouPiEE"
       },
@@ -47,18 +47,18 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 0 views — far below the top-5 average (55.4K)"
+        "Latest video only 4 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 387,
-      "total_views": 1256727,
+      "subscribers": 390,
+      "total_views": 1257671,
       "latest_video": {
         "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
-        "views": 2,
+        "views": 316,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
       },
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "387 subs — 613 short of the 1,000 YPP target",
-        "Latest video only 2 views — far below the top-5 average (200K)",
+        "390 subs — 610 short of the 1,000 YPP target",
+        "Latest video only 316 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3538,
+      "total_views": 3537,
       "latest_video": {
         "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
-        "views": 8,
+        "views": 12,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=KUoXbAjdxFk"
       },
@@ -151,7 +151,7 @@
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.5K total views so far",
-        "Latest video only 8 views — far below the top-5 average (556)"
+        "Latest video only 12 views — far below the top-5 average (556)"
       ]
     },
     {
