@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:48:35+05:00",
+  "generated_at": "2026-11-28T00:48:33+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,7 +7,7 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1429137,
+      "total_views": 1430110,
       "latest_video": {
         "title": "Er ist 40, sie ist 30 – und er hat sich VERLIEBT?! 😂 | Büro-Romance",
         "views": 4,
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 390,
-      "total_views": 1257671,
+      "total_views": 1258732,
       "latest_video": {
         "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
-        "views": 316,
+        "views": 486,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
       },
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "390 subs — 610 short of the 1,000 YPP target",
-        "Latest video only 316 views — far below the top-5 average (200K)",
+        "Latest video only 486 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -146,7 +146,7 @@
         }
       ],
       "strengths": [
-        "Active — new video uploaded yesterday"
+        "Active — new video 2 days ago"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
