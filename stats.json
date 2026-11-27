@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T02:48:35+05:00",
+  "generated_at": "2026-11-28T04:48:32+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1090,
-      "total_views": 1431042,
+      "total_views": 1431932,
       "latest_video": {
         "title": "Er ist 40, sie ist 30 – und er hat sich VERLIEBT?! 😂 | Büro-Romance",
-        "views": 6,
+        "views": 10,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GGPvjouPiEE"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 6 views — far below the top-5 average (55.4K)"
+        "Latest video only 10 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,10 +55,10 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 389,
-      "total_views": 1260547,
+      "total_views": 1262495,
       "latest_video": {
         "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
-        "views": 666,
+        "views": 854,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
       },
@@ -70,7 +70,7 @@
         },
         {
           "title": "Takis BLUE HEAT Ramen?! 🔥 Blue Noodles ASMR",
-          "views": 35000,
+          "views": 36000,
           "url": "https://www.youtube.com/shorts/Ae4KAurWnGY"
         },
         {
@@ -96,7 +96,7 @@
       ],
       "weaknesses": [
         "389 subs — 611 short of the 1,000 YPP target",
-        "Latest video only 666 views — far below the top-5 average (200K)",
+        "Latest video only 854 views — far below the top-5 average (200K)",
         "Views depend on one video — 72% of all views"
       ]
     },
@@ -111,12 +111,12 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3579,
+      "total_views": 3617,
       "latest_video": {
-        "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
-        "views": 60,
-        "upload_date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=KUoXbAjdxFk"
+        "title": "That Drawer Under Your Oven Is NOT for Storage?! 😱 | Fact Blast #36",
+        "views": 3,
+        "upload_date": "2026-11-27",
+        "url": "https://www.youtube.com/watch?v=CCy9RVZweZ4"
       },
       "top_videos": [
         {
@@ -146,11 +146,12 @@
         }
       ],
       "strengths": [
-        "Active — new video 2 days ago"
+        "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
-        "Only 3.6K total views so far"
+        "Only 3.6K total views so far",
+        "Latest video only 3 views — far below the top-5 average (556)"
       ]
     },
     {
