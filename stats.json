@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T10:48:31+05:00",
+  "generated_at": "2026-11-27T12:48:36+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1080,
-      "total_views": 1424214,
+      "total_views": 1424515,
       "latest_video": {
-        "title": "Schau mal, wie mutig ich war! 😂",
-        "views": 6274,
+        "title": "Alle Hexen leben auf Bäumen?! 😂",
+        "views": 1441,
         "upload_date": "2026-11-26",
-        "url": "https://www.youtube.com/watch?v=RfPPvSPvh8w"
+        "url": "https://www.youtube.com/watch?v=rcTC6OOZ4yQ"
       },
       "top_videos": [
         {
@@ -46,14 +46,16 @@
         "Over 1M total views (1.42M)",
         "Breakout video — 108K views"
       ],
-      "weaknesses": []
+      "weaknesses": [
+        "Latest video only 1.4K views — far below the top-5 average (55.4K)"
+      ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 382,
-      "total_views": 1254945,
+      "total_views": 1254946,
       "latest_video": {
         "title": "Takis BLUE HEAT Burger?! 🔵🍔",
         "views": 1708,
@@ -109,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3533,
+      "total_views": 3536,
       "latest_video": {
         "title": "That Extra Hole in Your Shoes Has a SECRET Job?! 😱 | Fact Blast #35",
-        "views": 7,
+        "views": 8,
         "upload_date": "2026-11-26",
         "url": "https://www.youtube.com/watch?v=KUoXbAjdxFk"
       },
@@ -149,7 +151,7 @@
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.5K total views so far",
-        "Latest video only 7 views — far below the top-5 average (556)"
+        "Latest video only 8 views — far below the top-5 average (556)"
       ]
     },
     {
