@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T18:48:37+05:00",
+  "generated_at": "2026-11-28T20:48:24+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,12 +7,12 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1090,
-      "total_views": 1434018,
+      "total_views": 1434724,
       "latest_video": {
-        "title": "Herr Doktor, meine Haut ist so weich! 😂",
-        "views": 262,
+        "title": "Er meldet sich KRANK — und der Chef erwischt ihn im SUPERMARKT?! 😂 | Büro-Comedy",
+        "views": 0,
         "upload_date": "2026-11-28",
-        "url": "https://www.youtube.com/watch?v=vLU37PCPAwI"
+        "url": "https://www.youtube.com/watch?v=e5Uqa0l7AS0"
       },
       "top_videos": [
         {
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 262 views — far below the top-5 average (55.4K)"
+        "Latest video only 0 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 399,
-      "total_views": 1273309,
+      "subscribers": 400,
+      "total_views": 1274379,
       "latest_video": {
-        "title": "He Went for a Massage… Came Home COVERED in Blue Takis! 😂 | Puppet Comedy",
-        "views": 6,
+        "title": "BLUE CHICKEN?! 😱 I Fried Chicken in Blue Takis | ASMR",
+        "views": 43,
         "upload_date": "2026-11-28",
-        "url": "https://www.youtube.com/watch?v=nIM72A8z778"
+        "url": "https://www.youtube.com/watch?v=2iuFwD72GNw"
       },
       "top_videos": [
         {
@@ -84,9 +84,9 @@
           "url": "https://www.youtube.com/shorts/Cr1CH4lAhJQ"
         },
         {
-          "title": "The Most Satisfying M&M Crunch Ever 🍫🤤 #asmr #satisfying #shorts",
+          "title": "Takis Zombie + Baja Blast JUICE?! 🧟",
           "views": 14000,
-          "url": "https://www.youtube.com/shorts/qi3mlBgYKaQ"
+          "url": "https://www.youtube.com/shorts/ma7hPBEXh28"
         }
       ],
       "strengths": [
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "399 subs — 601 short of the 1,000 YPP target",
-        "Latest video only 6 views — far below the top-5 average (200K)",
+        "400 subs — 600 short of the 1,000 YPP target",
+        "Latest video only 43 views — far below the top-5 average (200K)",
         "Views depend on one video — 71% of all views"
       ]
     },
@@ -111,7 +111,7 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3674,
+      "total_views": 3687,
       "latest_video": {
         "title": "That Drawer Under Your Oven Is NOT for Storage?! 😱 | Fact Blast #36",
         "views": 21,
