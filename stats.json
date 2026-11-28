@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T04:48:32+05:00",
+  "generated_at": "2026-11-28T06:48:43+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1090,
-      "total_views": 1431932,
+      "total_views": 1432368,
       "latest_video": {
         "title": "Er ist 40, sie ist 30 – und er hat sich VERLIEBT?! 😂 | Büro-Romance",
-        "views": 10,
+        "views": 11,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=GGPvjouPiEE"
       },
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 10 views — far below the top-5 average (55.4K)"
+        "Latest video only 11 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 389,
-      "total_views": 1262495,
+      "subscribers": 391,
+      "total_views": 1263628,
       "latest_video": {
-        "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
-        "views": 854,
+        "title": "Takis Zombie + Baja Blast JUICE?! 🧟",
+        "views": 4734,
         "upload_date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
+        "url": "https://www.youtube.com/watch?v=ma7hPBEXh28"
       },
       "top_videos": [
         {
@@ -95,9 +95,9 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "389 subs — 611 short of the 1,000 YPP target",
-        "Latest video only 854 views — far below the top-5 average (200K)",
-        "Views depend on one video — 72% of all views"
+        "391 subs — 609 short of the 1,000 YPP target",
+        "Latest video only 4.7K views — far below the top-5 average (200K)",
+        "Views depend on one video — 71% of all views"
       ]
     },
     {
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3617,
+      "total_views": 3621,
       "latest_video": {
         "title": "That Drawer Under Your Oven Is NOT for Storage?! 😱 | Fact Blast #36",
-        "views": 3,
+        "views": 11,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=CCy9RVZweZ4"
       },
@@ -151,7 +151,7 @@
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.6K total views so far",
-        "Latest video only 3 views — far below the top-5 average (556)"
+        "Latest video only 11 views — far below the top-5 average (556)"
       ]
     },
     {
