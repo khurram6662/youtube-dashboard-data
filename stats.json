@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:48:38+05:00",
+  "generated_at": "2026-11-28T16:48:33+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1090,
-      "total_views": 1433313,
+      "total_views": 1433651,
       "latest_video": {
         "title": "Herr Doktor, meine Haut ist so weich! 😂",
-        "views": 94,
+        "views": 225,
         "upload_date": "2026-11-28",
         "url": "https://www.youtube.com/watch?v=vLU37PCPAwI"
       },
@@ -47,7 +47,7 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 94 views — far below the top-5 average (55.4K)"
+        "Latest video only 225 views — far below the top-5 average (55.4K)"
       ]
     },
     {
@@ -55,7 +55,7 @@
       "handle": "@Unwrapology",
       "status": "ok",
       "subscribers": 398,
-      "total_views": 1270699,
+      "total_views": 1271968,
       "latest_video": {
         "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
         "views": 949,
