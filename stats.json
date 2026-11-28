@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T20:48:24+05:00",
+  "generated_at": "2026-11-28T22:48:30+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1090,
-      "total_views": 1434724,
+      "total_views": 1435748,
       "latest_video": {
         "title": "Er meldet sich KRANK — und der Chef erwischt ihn im SUPERMARKT?! 😂 | Büro-Comedy",
-        "views": 0,
+        "views": 3,
         "upload_date": "2026-11-28",
         "url": "https://www.youtube.com/watch?v=e5Uqa0l7AS0"
       },
@@ -43,22 +43,22 @@
       ],
       "strengths": [
         "YPP subscriber target met — 1,090 subs",
-        "Over 1M total views (1.43M)",
+        "Over 1M total views (1.44M)",
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 0 views — far below the top-5 average (55.4K)"
+        "Latest video only 3 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 400,
-      "total_views": 1274379,
+      "subscribers": 408,
+      "total_views": 1277395,
       "latest_video": {
         "title": "BLUE CHICKEN?! 😱 I Fried Chicken in Blue Takis | ASMR",
-        "views": 43,
+        "views": 789,
         "upload_date": "2026-11-28",
         "url": "https://www.youtube.com/watch?v=2iuFwD72GNw"
       },
@@ -85,18 +85,18 @@
         },
         {
           "title": "Takis Zombie + Baja Blast JUICE?! 🧟",
-          "views": 14000,
+          "views": 16000,
           "url": "https://www.youtube.com/shorts/ma7hPBEXh28"
         }
       ],
       "strengths": [
-        "Over 1M total views (1.27M)",
+        "Over 1M total views (1.28M)",
         "Breakout video — 903K views",
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "400 subs — 600 short of the 1,000 YPP target",
-        "Latest video only 43 views — far below the top-5 average (200K)",
+        "408 subs — 592 short of the 1,000 YPP target",
+        "Latest video only 789 views — far below the top-5 average (200K)",
         "Views depend on one video — 71% of all views"
       ]
     },
@@ -110,11 +110,11 @@
       "name": "FactBlast",
       "handle": "@FactsGoBlast",
       "status": "ok",
-      "subscribers": 79,
-      "total_views": 3687,
+      "subscribers": 80,
+      "total_views": 3698,
       "latest_video": {
         "title": "That Drawer Under Your Oven Is NOT for Storage?! 😱 | Fact Blast #36",
-        "views": 21,
+        "views": 48,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=CCy9RVZweZ4"
       },
@@ -149,9 +149,9 @@
         "Active — new video uploaded yesterday"
       ],
       "weaknesses": [
-        "Tiny audience — only 79 subscribers",
+        "Tiny audience — only 80 subscribers",
         "Only 3.7K total views so far",
-        "Latest video only 21 views — far below the top-5 average (556)"
+        "Latest video only 48 views — far below the top-5 average (556)"
       ]
     },
     {
