@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T16:48:33+05:00",
+  "generated_at": "2026-11-28T18:48:37+05:00",
   "generated_at_timezone": "Asia/Karachi",
   "channels": [
     {
@@ -7,10 +7,10 @@
       "handle": "@EinLebenEinMoment",
       "status": "ok",
       "subscribers": 1090,
-      "total_views": 1433651,
+      "total_views": 1434018,
       "latest_video": {
         "title": "Herr Doktor, meine Haut ist so weich! 😂",
-        "views": 225,
+        "views": 262,
         "upload_date": "2026-11-28",
         "url": "https://www.youtube.com/watch?v=vLU37PCPAwI"
       },
@@ -47,20 +47,20 @@
         "Breakout video — 108K views"
       ],
       "weaknesses": [
-        "Latest video only 225 views — far below the top-5 average (55.4K)"
+        "Latest video only 262 views — far below the top-5 average (55.4K)"
       ]
     },
     {
       "name": "Unwrapology",
       "handle": "@Unwrapology",
       "status": "ok",
-      "subscribers": 398,
-      "total_views": 1271968,
+      "subscribers": 399,
+      "total_views": 1273309,
       "latest_video": {
-        "title": "SPICY DORITOS?! 🔥😱 The Crunch is INSANE! | ASMR",
-        "views": 949,
-        "upload_date": "2026-11-27",
-        "url": "https://www.youtube.com/watch?v=GIQ23ooj46w"
+        "title": "He Went for a Massage… Came Home COVERED in Blue Takis! 😂 | Puppet Comedy",
+        "views": 6,
+        "upload_date": "2026-11-28",
+        "url": "https://www.youtube.com/watch?v=nIM72A8z778"
       },
       "top_videos": [
         {
@@ -95,8 +95,8 @@
         "Deep catalogue — 5 videos over 10K views"
       ],
       "weaknesses": [
-        "398 subs — 602 short of the 1,000 YPP target",
-        "Latest video only 949 views — far below the top-5 average (200K)",
+        "399 subs — 601 short of the 1,000 YPP target",
+        "Latest video only 6 views — far below the top-5 average (200K)",
         "Views depend on one video — 71% of all views"
       ]
     },
@@ -111,10 +111,10 @@
       "handle": "@FactsGoBlast",
       "status": "ok",
       "subscribers": 79,
-      "total_views": 3666,
+      "total_views": 3674,
       "latest_video": {
         "title": "That Drawer Under Your Oven Is NOT for Storage?! 😱 | Fact Blast #36",
-        "views": 14,
+        "views": 21,
         "upload_date": "2026-11-27",
         "url": "https://www.youtube.com/watch?v=CCy9RVZweZ4"
       },
@@ -151,7 +151,7 @@
       "weaknesses": [
         "Tiny audience — only 79 subscribers",
         "Only 3.7K total views so far",
-        "Latest video only 14 views — far below the top-5 average (556)"
+        "Latest video only 21 views — far below the top-5 average (556)"
       ]
     },
     {
